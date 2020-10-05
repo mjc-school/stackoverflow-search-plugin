@@ -1,4 +1,4 @@
-package com.epam.plugin;
+package mjc.by.plugin;
 
 import org.jetbrains.annotations.NotNull;
 

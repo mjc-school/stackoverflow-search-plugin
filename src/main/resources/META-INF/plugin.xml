@@ -19,7 +19,7 @@
     <actions>
         <action
             id="StackOverflow.AskQuestion.ToolsMenu"
-            class="com.epam.plugin.TestAction"
+            class="mjc.by.plugin.TestAction"
             text="Ask Question on Stack Overflow"
             icon="/so-icon-16x16.png"
             description="Ask a question on stack overflow">
